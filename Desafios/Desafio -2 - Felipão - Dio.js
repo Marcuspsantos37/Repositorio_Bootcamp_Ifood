@@ -7,4 +7,4 @@ console.log(`A quantidade de vitória foi de ${qtVitoria} de um total de ${qtdPa
 function Saldo(numbA, numbB) {
     let saldo = numbB - (numbB - numbA)
     return saldo 
-}
+}z
